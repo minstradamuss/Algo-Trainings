@@ -1,2 +1,3 @@
 # Algo-Trainings
-Leetcode, Codechef, Young&amp;Yandex Trainings, Tinkoff Generation
+We are trying to improve my hard days at ITMO with what I really like.
+
