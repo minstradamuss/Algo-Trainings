@@ -1,6 +1,6 @@
 
 #
-# author: minstradamus (Loskutova Mariia)
+# Author: minstradamuss (Loskutova Mariia)
 #   
 
 class Node:
