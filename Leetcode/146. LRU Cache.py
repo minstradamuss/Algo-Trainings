@@ -1,3 +1,8 @@
+
+#
+# author: minstradamus (Loskutova Mariia)
+#   
+
 class Node:
     def __init__ (self, k, v):
         self.key = k
