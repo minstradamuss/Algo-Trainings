@@ -1,3 +1,3 @@
 # Algo-Trainings
-Preparing for future.
+weekends
 
